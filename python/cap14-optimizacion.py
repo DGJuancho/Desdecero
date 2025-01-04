@@ -27,10 +27,10 @@ while True:
         print("Hasta luego")
         break
     operaciones = {
-        1: "sumar",
-        2: "restar",
-        3: "multiplicar",
-        4: "dividir",
+        1: "suma",
+        2: "resta",
+        3: "multiplicación",
+        4: "división",
         5: "potencia",
     }
     if opcion in operaciones:
